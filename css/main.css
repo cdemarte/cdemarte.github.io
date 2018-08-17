@@ -16,6 +16,11 @@ body {
      padding: 20px;
 }
 
+h1 {
+    font-family: Garamond;
+}
+
+
 .jumbotron-container {
 	position: relative;
      margin-top: 50px;
