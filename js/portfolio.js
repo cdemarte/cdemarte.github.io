@@ -3,7 +3,12 @@
 // Call this function when the page loads (the "ready" event)
 $(document).ready(function() {
 	initializePage();
-})
+	$(“.img-thumbnail”).click(projectClick);
+	function projectClick(e) {
+ e.preventDefault();
+ $(this).css(“background-color”, “#7fff00”)
+}
+
 
 /*
  * Function that is called when the document is ready.
