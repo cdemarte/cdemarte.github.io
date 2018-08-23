@@ -15,6 +15,8 @@ body {
      border: 1px dotted gray;
      padding: 20px;
      background-color: #ccccff; 
+     text-align: block;
+
 }
 
 h1 {
@@ -23,7 +25,8 @@ h1 {
 h2 {font-family: Garamond; font-size: 50px; font-style: bold; text-align: center; color: #800000;
 }
 
-border-image: gray; border-style: outset;}
+{
+    border-image: gray; border-style: outset;}
 
 .jumbotron-container {
 	position: relative;
