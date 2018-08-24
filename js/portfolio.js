@@ -21,3 +21,7 @@ function projectClick(e) {
  	e.preventDefault();
  	$(this).css("background-color", "#7fff00")
 }
+$(".nav-item").click(function(e) {
+	$(this).toggleClass("active").siblings().removeClass("active");
+	console.log("toggle class");
+}
