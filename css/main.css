@@ -18,7 +18,11 @@ body {
      text-align: block;
 
 }
-
+   
+   table {border-color: #800000;
+    font-family: Garamond; 
+    font-size: 20px;
+}
 h1 {
     font-family: Garamond; font-size: 70px; font-style: bold; text-align: center; color: #800000;
 }
