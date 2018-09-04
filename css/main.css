@@ -32,7 +32,9 @@ h2 {font-family: Garamond; font-size: 45px; font-style: bold; text-align: center
 {
     border-image: gray; border-style: outset;}
 
+nav-bar { font-family: Garamond, 
 
+}
 .jumbotron-container {
 	position: relative;
      margin-top: 50px;
